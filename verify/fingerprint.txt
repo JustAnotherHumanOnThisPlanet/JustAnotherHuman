@@ -1,0 +1,5 @@
+pub   ed25519 2026-06-27 [SC]
+      CA12 460B 0E8C F8C8 1DAB  1034 7696 D383 B854 C007
+uid           [ultimate] Just Another Human (We all deserve a better world)
+sub   cv25519 2026-06-27 [E]
+      9515 761C 1C79 5E19 998E  87BF A558 09E5 DAFB 52B3
