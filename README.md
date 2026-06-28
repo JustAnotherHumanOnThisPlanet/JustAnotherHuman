@@ -12,7 +12,7 @@ Send a voluntary contribution directly to the following Monero address.
 
 ## 2. Other Crypto Donations
 
-https://nowpayments.io/donation/JustAnotherHuman
+<https://nowpayments.io/donation/JustAnotherHuman>
 
 ## 3.Spread The Message
 
