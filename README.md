@@ -7,7 +7,7 @@ If you love the vision of this book and wish to support **Just Another Human**, 
 Send a voluntary contribution directly to the following Monero address.
 
 ```text
-Monero : 429oaD8BtYnjnu7F2sTKPR1hSR2uCkimVZeBV9ZpZaaHT7U4CoqhFHRccJHxdMkzU33ZGy1AMjsxMVbYGehjnG61StKRmZ3
+429oaD8BtYnjnu7F2sTKPR1hSR2uCkimVZeBV9ZpZaaHT7U4CoqhFHRccJHxdMkzU33ZGy1AMjsxMVbYGehjnG61StKRmZ3
 ```
 
 ## 2. Other Crypto Donations
